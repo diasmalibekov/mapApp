@@ -1,0 +1,2 @@
+export const ADD_POINT = 'ADD_POINT'
+export const SET_INITIAL_POINT = 'SET_INITIAL_POINT'
